@@ -25,9 +25,9 @@ Currently, I'm a Senior Software Engineer at [Studio](https://studio.com/), empo
 - GoLang
 
 Follow me along my journey to becoming a better engineer every day. These are my current goals for the year: 
-[] Contribute to at least 1 open source project.
-[] Build an application that brings delight to at least one person.
-[] Build something (anything) with GoLang. 
+- [] Contribute to at least 1 open source project.
+- [] Build an application that brings delight to at least one person.
+- [] Build something (anything) with GoLang. 
 I'd love to collaborate on any of the above - if you're interested in working with me, feel free to reach out! 
 
 #### Thanks for stopping by! 
