@@ -4,7 +4,7 @@
 
 #### My name is Sanjana! Welcome to my Github Profile
 
-Currently, I'm a Senior Software Engineer at [Studio](https://studio.com/), empowering people everywhere to pursue all things creative. I previously worked at [Shopify](https://www.shopify.com/) on the Checkout team. 
+Currently, I'm a Senior Software Engineer at [1Password](https://1password.com/) developing the world's most loved password manager. I previously worked at [Shopify](https://www.shopify.com/) on the Checkout team. 
 
 ##### Here are some of my pieces of the internet: 
 - 🌐 [My Website (that is long over due for an update & upgrade)](http://sanjanadesai.ca)
